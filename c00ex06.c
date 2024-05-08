@@ -1,7 +1,5 @@
 void ft_print_comb2(void);
 int main(){
-    
-    //write(1,&i,1);
     ft_print_comb2();
     return 0;
 }
