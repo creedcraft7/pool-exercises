@@ -1,12 +1,10 @@
-#include <stdio.h>
 #include <unistd.h>
-#include <limits.h>
 
 void ft_putnbr(int nb);
 
 
 int main(){
-    int i = INT_MAX;
+    int i = -2147483648;
     ft_putnbr(i);
 }
 
